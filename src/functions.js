@@ -1,4 +1,4 @@
-const numberOfIngredients = 4
+const numberOfIngredients = 2
 
 module.exports = { 
     allCocktails(array, letter) {
@@ -40,7 +40,7 @@ module.exports = {
         for (let i = 0; i < filtered.length; i++) {
             if (filtered[i].alcoholic === 'Alcoholic') {
                 alcoholic.push(filtered[i]);
-            } else if (filtered.alcoholic === 'Non alcoholic') {
+            } else if (filtered[i].alcoholic === 'Non alcoholic') {
                 nonAlcoholic.push(filtered[i]);
             } else {
                 optAlcoholic.push(filtered[i]);

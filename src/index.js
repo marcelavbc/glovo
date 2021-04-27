@@ -1,6 +1,6 @@
 const tools = require('./functions');
 const apiService = require('./apiService');
-const letter = 'g'.toUpperCase();
+const letter = 'p'.toUpperCase();
 
 //Filter all cocktails from letter
 apiService.filterCocktailsByLetter(letter)
