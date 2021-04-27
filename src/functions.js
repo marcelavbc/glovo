@@ -1,4 +1,4 @@
-const numberOfIngredients = 2
+const numberOfIngredients = 4
 
 module.exports = { 
     allCocktails(array, letter) {

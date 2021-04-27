@@ -3,7 +3,7 @@
 Project developed for Glovo's recruitment process. 
 
 ## Introducción
-At Glovo, our aim is to give everyone easy access to anything in their city. Wouldn’t it be great to accompany this food with some exotic cocktails?! 
+:tropical_drink: :wine_glass: :cocktail: At Glovo, our aim is to give everyone easy access to anything in their city. Wouldn’t it be great to accompany this food with some exotic cocktails?! 
 :tropical_drink: :wine_glass: :cocktail:
 
 ### Development
